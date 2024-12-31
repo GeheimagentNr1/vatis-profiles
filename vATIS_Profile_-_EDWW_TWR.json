@@ -1,7 +1,7 @@
 {
   "name": "EDWW TWR",
   "id": "e7d68cf9-a93a-4808-9c62-9ba632f5fbb7",
-  "updateUrl": "https://example.com/vatis/profiles/vATIS-Profile.json",
+  "updateUrl": "https://raw.githubusercontent.com/GeheimagentNr1/vatis-profiles/refs/heads/master/vATIS_Profile_-_EDWW_TWR.json",
   "updateSerial": 2024123100,
   "composites": [
     {

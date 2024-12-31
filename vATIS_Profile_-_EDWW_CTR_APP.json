@@ -1,7 +1,7 @@
 {
   "name": "EDWW CTR/APP",
   "id": "9fa68138-5dc0-4992-9a53-734ba50f99a4",
-  "updateUrl": "https://example.com/vatis/profiles/vATIS-Profile.json",
+  "updateUrl": "https://raw.githubusercontent.com/GeheimagentNr1/vatis-profiles/refs/heads/master/vATIS_Profile_-_EDWW_CTR_APP.json",
   "updateSerial": 2024123100,
   "composites": [
     {
